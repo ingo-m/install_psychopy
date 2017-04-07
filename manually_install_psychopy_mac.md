@@ -1,5 +1,7 @@
 # MovieStim in Psychopy
 
+*Work in progress, problem not solved yet.*
+
 An attempt at creating a manual installation of psychopy in order to get
 movie stimuli with sound to work. (On Debian and/or Mac.)
 
